@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Updater for WhatsApp Beta</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Interfaz estática -->
+    <string name="btnDownload">Download</string>
+    <string name="txtInstalledVersion">Installed version</string>
+    <string name="txtLatestVersion">Latest version available</string>
+
+    <!-- Textos usados en el código -->
+    <string name="textViewLoading">LOADING...</string>
+    <string name="textViewNewVersionAvailable">New WhatsApp version available</string>
+    <string name="textViewUsingLatestVersion">You\'re using the latest WhatsApp Beta available</string>
+    <string name="textViewNoPackageNameFound">WhatsApp is not installed on this device.</string>
+    <string name="textViewNoNET">No network connection available.</string>
+    <string name="URLinvalid">Unable to retrieve web page. URL may be invalid.</string>
+    <string name="ProgressDialogDownloading">Downloading...</string>
+    <string name="ToastDownloadFinished">Download finished!</string>
+
+    <!-- Notifications -->
+    <string name="notification_title">Update available</string>
+    <string name="notification_text">A new WhatsApp Version is ready to download</string>
+    <string name="title_activity_result">New Version Available</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>

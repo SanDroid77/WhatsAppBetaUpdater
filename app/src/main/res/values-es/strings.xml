@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Actualizador de WhatsApp Beta</string>
+
+    <string name="action_settings">Ajustes</string>
+
+    <!-- Ajustes -->
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="cat_pref_notifications">NOTIFICACIONES</string>
+    <string name="pref_enable_notifications">Activar notificaciones</string>
+    <string name="pref_description_enable_notifications">Activar para recibir notificaciones cuando haya una nueva version de WhatsApp Beta disponible</string>
+
+    <!-- Interfaz estática -->
+    <string name="btnDownload">Descargar</string>
+    <string name="txtInstalledVersion">Versión instalada</string>
+    <string name="txtLatestVersion">Última versión disponible</string>
+
+    <!-- Textos usados en el código -->
+    <string name="textViewLoading">CARGANDO...</string>
+    <string name="textViewNewVersionAvailable">Nueva versión de WhatsApp disponible</string>
+    <string name="textViewUsingLatestVersion">Estás usando la última versión de WhatsApp</string>
+    <string name="textViewNoPackageNameFound">WhatsApp no está instalado.</string>
+    <string name="textViewNoNET">Sin conexión a la red.</string>
+    <string name="URLinvalid">No fue posible descargar información.</string>
+    <string name="ProgressDialogDownloading">Descargando...</string>
+    <string name="ToastDownloadFinished">Descarga finalizada!</string>
+
+    <!-- Notifications -->
+    <string name="notification_title">Actualización disponible</string>
+    <string name="notification_text">Hay disponible una nueva versión de WhatsApp</string>
+
+</resources>
